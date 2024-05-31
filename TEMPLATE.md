@@ -1,8 +1,10 @@
-# Full Name 
+# ARJUN V
+
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Hello, I am Arjun V, a final year student pursuing Electrical and Electronics Engineering at Nehru College of Engineering and Research Centre, Thrissur. Prior to this, I completed a Diploma in EEE at Govt Polytechnic College, Palakkad. I received specialized training in S7 1200 PLC at Siemens India Pvt Ltd's Centre of Excellence and gained practical experience through an internship at Motherson Automotive Technologies and Engineering, Chennai, with a stipend. My diploma project focused on Advanced Pump Automation, while my BTech project centers on a Universal Fast DC Charger for Two Wheeler EV. Additionally, I have undertaken training in VLSI and Embedded Systems at NIELT Calicut. I am an active member of IEEE and serve as the Chief Creating Officer at IEDC. 
+
 
 
 ## Portfolio Highlights
@@ -11,8 +13,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **ADVANCED PUMP AUTOMATION**  |Input Monitoring -> Control Logic -> Pump Operation ->Feedback Loop                                                                             | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **UNIVERSAL FAST DC CHARGER FOR TWO WHEELER EV**  |The Universal Fast DC Charger is designed for electric scooters, resembling DC fast charging stations for cars. It adapts to various battery pack specifications, ensuring safe charging by communicating with the battery for voltage and current requirements. Additionally, it incorporates a cooling system for efficient heat extraction, potentially transforming into a charging station with RFID and payment integration for user convenience.                                            | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
