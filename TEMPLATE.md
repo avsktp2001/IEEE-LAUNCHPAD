@@ -1,8 +1,8 @@
-# Full Name 
+# ARJUN V
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Hello, I am Arjun V, a final year student pursuing Electrical and Electronics Engineering at Nehru College of Engineering and Research Centre, Thrissur. Prior to this, I completed a Diploma in EEE at Govt Polytechnic College, Palakkad. I received specialized training in S7 1200 PLC at Siemens India Pvt Ltd's Centre of Excellence and gained practical experience through an internship at Motherson Automotive Technologies and Engineering, Chennai, with a stipend. My diploma project focused on Advanced Pump Automation, while my BTech project centers on a Universal Fast DC Charger for Two Wheeler EV. Additionally, I have undertaken training in VLSI and Embedded Systems at NIELT Calicut. I am an active member of IEEE and serve as the Chief Creating Officer at IEDC.
 
 
 ## Portfolio Highlights
